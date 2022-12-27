@@ -55,7 +55,9 @@ Connect with me
   /></a>
 </p>
 
-## 🛠️ My Skills ### 🔵 Programming Languages
+## 🛠️ My Skills 
+
+### 🔵 Programming Languages
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
