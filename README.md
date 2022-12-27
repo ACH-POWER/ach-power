@@ -13,13 +13,16 @@
   />
 </p>
 
-- 🌱 I’m a Javascript Developer from Algeria. - :school: I am a `Student of
-regulation and automation` in INSFP ABELKADER MATOUK DE BEAULIEU (EX. ITEEM)
-ALGER ALGERIE. - 🔭 I’m currently working on [my
-agency](https://devlopili.com/). - 👯 I’m open to collaborate on any
-`offer/project`. - :thinking: I’m currently open for: `An Intern` or a new `job
-opportunity`. - 📫 How to reach me **achrafbkz123@gmail.com**. - :nerd_face:
-Always `learning new things`.
+- 🌱 I’m a Javascript Developer from Algeria. 
+- :school: I am a `Student of regulation and automation` in INSFP ABELKADER MATOUK DE BEAULIEU (EX. ITEEM) ALGER ALGERIE.
+- 🔭 I’m currently working on
+[my agency](https://devlopili.com/). 
+- 👯 I’m open to collaborate on
+any `offer/project`. 
+- :thinking: I’m currently open for: `An Intern` or a new
+`job opportunity`.
+- 📫 How to reach me **achrafbkz123@gmail.com**. - :nerd_face: Always
+`learning new things`.
 <br />
 
 ##
