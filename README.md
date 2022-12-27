@@ -6,7 +6,7 @@
     src="https://komarev.com/ghpvc/?username=ACH-POWER&label=Profile%20views&color=0e75b6&style=flat"
     alt="ACH-POWER"
   />
-  <img src="https://badges.pufler.dev/repos/ACH-POWER" alt="ACH-POWER" />
+  <img src="https://avatars.githubusercontent.com/u/81525846?v=4" alt="ACH-POWER" />
   <img
     src="https://img.shields.io/github/followers/ACH-POWER?label=Followers"
     alt="ACH-POWER"
