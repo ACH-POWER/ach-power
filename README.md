@@ -25,7 +25,8 @@
 any `offer/project`. 
 - :thinking: I’m currently open for: `An Intern` or a new
 `job opportunity`.
-- 📫 How to reach me **achrafbkz123@gmail.com**. - :nerd_face: Always
+- 📫 How to reach me **achrafbkz123@gmail.com**. 
+- :nerd_face: Always
 `learning new things`.
 <br />
 
