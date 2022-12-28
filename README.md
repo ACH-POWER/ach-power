@@ -25,7 +25,7 @@
 any `offer/project`. 
 - :thinking: I’m currently open for: `An Intern` or a new
 `job opportunity`.
-- 📫 How to reach me **achrafbkz123@gmail.com**. 
+- 📫 How to reach me **bouakkaz.achraf.ayoub@gmail.com**. 
 - :nerd_face: Always
 `learning new things`.
 <br />
@@ -38,7 +38,7 @@ any `offer/project`.
 Connect with me
 
 <p align="center">
-  <a href="mailto:achrafbkz123@gmail.com"
+  <a href="mailto:bouakkaz.achraf.ayoub@gmail.com"
     ><img
       img
       src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white"
