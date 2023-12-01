@@ -131,14 +131,6 @@ Connect with me
 ### 🔵 Frontend Development
 
 <p align="center">
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.chartjs.org/media/logo-title.svg"
-      alt="chartjs"
-      width="40"
-      height="40"
-    /> </a
-  >&emsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -204,14 +196,6 @@ Connect with me
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
       alt="mongodb"
-      width="40"
-      height="40"
-    /> </a
-  >&emsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      alt="redis"
       width="40"
       height="40"
     /> </a
